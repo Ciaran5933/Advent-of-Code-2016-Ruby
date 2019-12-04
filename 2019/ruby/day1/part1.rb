@@ -1,0 +1,1 @@
+puts IO.readlines("input.txt").sum { |line| line.to_i / 3 - 2 }
