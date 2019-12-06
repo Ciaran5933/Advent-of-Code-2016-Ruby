@@ -1,5 +1,5 @@
 # Advent-of-Code-2016-Ruby
 
-My Ruby solutions to the 2016 Advent of Code.
+Various Advent of Code solutions
 
-see http://adventofcode.com/2016
+http://adventofcode.com
